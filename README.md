@@ -81,9 +81,13 @@ It helped me estimate the size of the enclosure and plan the placement of all co
 I created this circuit diagram to understand how all the components will connect and work together.  
 It also helps in organizing the design before building the actual hardware.
 
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/744cc002-e171-4403-a000-095d9921c952" />
+
+
 ---
 
-![Code Structure](image)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/1c829bc4-58c5-47c3-aab7-801b33596b17" />
+
 
 I wrote the code in a structured way to simulate how the system will function.  
 This makes it easier to debug and ensures smooth interaction between all components.
