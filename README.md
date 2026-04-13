@@ -65,14 +65,18 @@ Through this project, I learned more about sensor integration, data processing, 
 
 ## Photos
 
-![CAD Design](image)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c086a87c-01d6-4127-8562-caca51ec1e6e" />
 
 This image shows the CAD design I created to visualize how the final device will look.  
 It helped me estimate the size of the enclosure and plan the placement of all components.
 
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0a6dace5-8ef6-4685-80d3-54fed887fe85" />
+
+
 ---
 
-![Circuit Diagram](image)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/174edba2-918a-4d2e-a196-221c49aaacf4" />
+
 
 I created this circuit diagram to understand how all the components will connect and work together.  
 It also helps in organizing the design before building the actual hardware.
