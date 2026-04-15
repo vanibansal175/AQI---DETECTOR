@@ -101,18 +101,18 @@ This makes it easier to debug and ensures smooth interaction between all compone
 
 ## Components List
 
-| Component | Quantity | Min Price (INR) | Purchase Link |
-|----------|---------|----------------|--------------|
-| ESP32 Dev Board | 1 | 300 | Buy |
-| MQ135 Sensor | 1 | 150 | Buy |
-| BME280 Sensor | 1 | 250 | Buy |
-| PMS5003 Sensor | 1 | 1200 | Buy |
-| OLED Display (0.96") | 1 | 150 | Buy |
-| Buzzer | 1 | 50 | Buy |
-| LED | 1 | 10 | Buy |
-| Resistor (220Ω) | 1 | 5 | Buy |
-| Jumper Wires | As needed | 80 | Buy |
-| Breadboard/PCB | 1 | 100 | Buy |
-| Power Supply | 1 | 150 | Buy |
+| Component | Quantity | Min Price (INR) | 
+|----------|---------|----------------|
+| ESP32 Dev Board | 1 | 300 |
+| MQ135 Sensor | 1 | 150 | 
+| BME280 Sensor | 1 | 250 | 
+| PMS5003 Sensor | 1 | 1200 | 
+| OLED Display (0.96") | 1 | 150 | 
+| Buzzer | 1 | 50 | 
+| LED | 1 | 10 | 
+| Resistor (220Ω) | 1 | 5 |
+| Jumper Wires | As needed | 80 | 
+| Breadboard/PCB | 1 | 100 | 
+| Power Supply | 1 | 150 |
 
 **Estimated Total Cost: ~₹2,445**
