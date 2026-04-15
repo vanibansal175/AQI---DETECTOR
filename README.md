@@ -65,21 +65,34 @@ Through this project, I learned more about sensor integration, data processing, 
 
 ## Photos
 
-![CAD Design](image)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c5eed3f7-e79c-4113-be1b-ea2966d87117" />
+
 
 This image shows the CAD design I created to visualize how the final device will look.  
 It helped me estimate the size of the enclosure and plan the placement of all components.
 
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/ee48bb67-ddaa-4e95-9f8d-ff483fccba08" />
+
+
 ---
 
-![Circuit Diagram](image)
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e564cce2-1380-40f8-b533-4b6b0fb3ab39" />
+
 
 I created this circuit diagram to understand how all the components will connect and work together.  
 It also helps in organizing the design before building the actual hardware.
 
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6933a516-f570-477f-a5f5-3e600551f46f" />
+
+
 ---
 
-![Code Structure](image)
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/2d19e13b-1dc9-4cf6-bc95-964e9956a8d1" />
+
 
 I wrote the code in a structured way to simulate how the system will function.  
 This makes it easier to debug and ensures smooth interaction between all components.
