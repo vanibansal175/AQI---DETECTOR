@@ -1,0 +1,4 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PMS7003","Dust Sensor",1,19.00,"https://robu.in/product/pms7003-sensor-module-pm2-5-air-particle-dust-sensor/","Robu"
+"BME280","Temp, Pressure and Humidity measure",1,2.70,"https://robu.in/product/pms7003-sensor-module-pm2-5-air-particle-dust-sensor/","Robu"
+"MQ135","Harmful gas Detection",1,1.30,"https://robu.in/product/mq-135-air-quality-gas-detector-sensor-module-for-arduino/","Robu"

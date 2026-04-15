@@ -65,29 +65,21 @@ Through this project, I learned more about sensor integration, data processing, 
 
 ## Photos
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c086a87c-01d6-4127-8562-caca51ec1e6e" />
+![CAD Design](image)
 
 This image shows the CAD design I created to visualize how the final device will look.  
 It helped me estimate the size of the enclosure and plan the placement of all components.
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/0a6dace5-8ef6-4685-80d3-54fed887fe85" />
-
-
 ---
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/174edba2-918a-4d2e-a196-221c49aaacf4" />
-
+![Circuit Diagram](image)
 
 I created this circuit diagram to understand how all the components will connect and work together.  
 It also helps in organizing the design before building the actual hardware.
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/744cc002-e171-4403-a000-095d9921c952" />
-
-
 ---
 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/1c829bc4-58c5-47c3-aab7-801b33596b17" />
-
+![Code Structure](image)
 
 I wrote the code in a structured way to simulate how the system will function.  
 This makes it easier to debug and ensures smooth interaction between all components.
@@ -96,18 +88,18 @@ This makes it easier to debug and ensures smooth interaction between all compone
 
 ## Components List
 
-| Component | Quantity | Min Price (INR) |
-|----------|---------|----------------|
-| ESP32 Dev Board | 1 | 300 | 
-| MQ135 Sensor | 1 | 150 |
-| BME280 Sensor | 1 | 250 | 
-| PMS5003 Sensor | 1 | 1200 | 
-| OLED Display (0.96") | 1 | 150 | 
-| Buzzer | 1 | 50 | 
-| LED | 1 | 10 | 
-| Resistor (220Ω) | 1 | 5 | 
-| Jumper Wires | As needed | 80 | 
-| Breadboard/PCB | 1 | 100 | 
-| Power Supply | 1 | 150 | 
+| Component | Quantity | Min Price (INR) | Purchase Link |
+|----------|---------|----------------|--------------|
+| ESP32 Dev Board | 1 | 300 | Buy |
+| MQ135 Sensor | 1 | 150 | Buy |
+| BME280 Sensor | 1 | 250 | Buy |
+| PMS5003 Sensor | 1 | 1200 | Buy |
+| OLED Display (0.96") | 1 | 150 | Buy |
+| Buzzer | 1 | 50 | Buy |
+| LED | 1 | 10 | Buy |
+| Resistor (220Ω) | 1 | 5 | Buy |
+| Jumper Wires | As needed | 80 | Buy |
+| Breadboard/PCB | 1 | 100 | Buy |
+| Power Supply | 1 | 150 | Buy |
 
 **Estimated Total Cost: ~₹2,445**
